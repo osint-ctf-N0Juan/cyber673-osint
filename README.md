@@ -1,4 +1,4 @@
 # cyber673-osint
 
 
-Please don't brute for ME :D
+Please don't brute ME :D
